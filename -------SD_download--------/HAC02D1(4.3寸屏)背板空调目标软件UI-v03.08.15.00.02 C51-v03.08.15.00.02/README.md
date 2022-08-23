@@ -23,6 +23,15 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
+    lys 2022-8-23 14:48:33
+## Date:
+    T5L_UI   v03.08.15.00.02
+    T5L_C51  v03.08.15.00.02
+## note:
+1. 去掉风机额定转速
+2. 调节阀精度 移到 电子流量阀
+
+## Author Date:
     lys 2022-8-22 15:18:38
 ## Date:
     T5L_UI   v03.08.15.00.02
