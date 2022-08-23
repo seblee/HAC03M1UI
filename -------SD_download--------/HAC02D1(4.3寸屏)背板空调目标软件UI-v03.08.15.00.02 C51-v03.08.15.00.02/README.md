@@ -23,10 +23,10 @@ DGUSII+T5L_C51
 #### release Note
 
 ## Author Date:
-    lys 2022-4-2 17:37:08
+    lys 2022-8-22 15:18:38
 ## Date:
-    T5L_UI   v03.08.15.00.01
-    T5L_C51  v03.08.15.00.01
+    T5L_UI   v03.08.15.00.02
+    T5L_C51  v03.08.15.00.02
 ## note:
 1. 修改部分告警文字
 2. 修复部分mask Bit
